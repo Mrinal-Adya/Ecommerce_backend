@@ -13,23 +13,12 @@ Lightweight Backend-for-Frontend (BFF) API built with Node.js, Express, and Type
 
 ## Quick Start (Under 2 Minutes)
 
-1. **Navigate to the backend directory:**
-   ```bash
-   cd backend
-   ```
-
-2. **Create your local environment file:**
-   ```bash
-   cp .env.example .env
-   ```
-   *(Default values work out of the box—no API keys or external accounts required.)*
-
-3. **Install dependencies:**
+1. **Install dependencies:**
    ```bash
    npm install
    ```
 
-4. **Start the server:**
+2. **Start the server:**
    * **Development mode (auto-reloads on file changes):**
      ```bash
      npm run dev
