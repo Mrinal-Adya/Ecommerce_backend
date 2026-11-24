@@ -13,12 +13,18 @@ Lightweight Backend-for-Frontend (BFF) API built with Node.js, Express, and Type
 
 ## Quick Start (Under 2 Minutes)
 
-1. **Install dependencies:**
+1. **Fix**
+   ```bash
+   rm -rf node_modules package-lock.json
+   ```
+
+
+2. **Install dependencies:**
    ```bash
    npm install
    ```
 
-2. **Start the server:**
+3. **Start the server:**
    * **Development mode (auto-reloads on file changes):**
      ```bash
      npm run dev
